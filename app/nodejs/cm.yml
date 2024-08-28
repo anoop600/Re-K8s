@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  BG_COLOR: orange
+  PORT: "3000"
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2024-08-28T14:50:16Z"
+  name: node-cm
+  namespace: node
+  resourceVersion: "1684"
+  uid: 50394580-48b7-4463-be91-bbea53a27c1f
